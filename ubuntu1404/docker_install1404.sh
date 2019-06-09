@@ -26,3 +26,6 @@ sudo apt-get -y install docker-engine
 sudo service docker start
 # Validate docker version
 docker -v
+# run this script by 
+# sudo chmod +x docker_install1404.sh
+# sudo ./docker_install1404.sh
